@@ -14,9 +14,7 @@
 
 
   <ItemGroup>
-    <Folder Include="Models\ViewModels\AccountingViewModels\" />
-    <Folder Include="Models\ViewModels\PeopleViewModels\" />
-    <Folder Include="Models\ViewModels\OrganizationViewModels\" />
+    <Folder Include="Models\ViewModels\" />
   </ItemGroup>
 
 </Project>
